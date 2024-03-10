@@ -30,7 +30,7 @@ recordar esas reglas.
     -> Sexto se evalua la resta.
 """
 
-print(2*(3-1))
-print((1+1)**(5-2))
-numero_minutos = int(input("Ingrese el numero de minutos -> "))
-print((numero_minutos*100)/60)
+print(2*(3-1))# SALIDA ESPERADA: 4
+print((1+1)**(5-2))# SALIDA ESPERADA: 8
+numero_minutos = int(input("Ingrese el numero de minutos -> "))# 60 minutos = 1 hora
+print((numero_minutos*100)/60)# SALIDA ESPERADA: 100

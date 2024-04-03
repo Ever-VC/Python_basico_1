@@ -8,6 +8,10 @@
 * Condicionales
 * Ciclos repetitivos
 * Listas
+* Funciones
+* Recursividad
+* Tuplas
+* Diccionarios
 
 
 
